@@ -1,4 +1,4 @@
 # exercise-repo
 Repo made for exercise
-I will make a conflinct!
-
+I resolve the conflict
+I choose the third option
