@@ -9,5 +9,4 @@ Bye, bye. <br>
 Too many changes... :@ :@ <br>
 I want more changes <3 <3 <br>
 Changes, changes, changes...I protest!!! <br>
-Changes with GitBash <br>
 
