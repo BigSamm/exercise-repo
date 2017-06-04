@@ -1,8 +1,8 @@
 # exercise-repo
-Repo made for exercise <br>
-I resolve the conflict
-I choose the third option
-Some more changes from me :-*
-Repository made for exercise.
-This project will contain.
-Bye, bye.
+Repo made for exercise. <br>
+I resolve the conflict. <br>
+I choose the third option. <br>
+Some more changes from me. :-* <br>
+Repository made for exercise. <br>
+This project will contain. <br>
+Bye, bye. <br>
