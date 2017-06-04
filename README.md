@@ -1,5 +1,5 @@
 # exercise-repo
-Repo made for exercise
+Repo made for exercise <br>
 I resolve the conflict
 I choose the third option
 Some more changes from me :-*
